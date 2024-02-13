@@ -54,25 +54,16 @@ You can install these dependencies using pip:
 YouTube API Key
 To use YTInsights-Analyzer, you need a YouTube API key. Follow these steps to obtain your API key:
 
-Watch this tutorial video on how to create a YouTube API key.
-Visit the Google Cloud Console.
-Create a new project or select an existing one.
-Enable the YouTube Data API v3 for your project.
-Create API credentials and copy the generated API key.
-Replace the placeholder in the script with your API key.
-link - https://youtu.be/LLAZUTbc97I?si=ihZwJzLESOIkPofn
+- Watch this tutorial video on how to create a YouTube API key.
+- Visit the Google Cloud Console.
+- Create a new project or select an existing one.
+- Enable the YouTube Data API v3 for your project.
+- Create API credentials and copy the generated API key.
+- Replace the placeholder in the script with your API key.
+- link - https://youtu.be/LLAZUTbc97I?si=ihZwJzLESOIkPofn
 
 ```bash
 pip install -r requirements.txt
 
 
-YouTube API Key
-To use YTInsights-Analyzer, you need a YouTube API key. Follow these steps to obtain your API key:
-
-Watch this tutorial video on how to create a YouTube API key.
-Visit the Google Cloud Console.
-Create a new project or select an existing one.
-Enable the YouTube Data API v3 for your project.
-Create API credentials and copy the generated API key.
-Replace the placeholder in the script with your API key.
 
