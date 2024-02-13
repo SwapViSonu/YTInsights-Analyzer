@@ -1,0 +1,11 @@
+streamlit
+google-api-python-client
+pandas
+pprint
+python-dateutil
+seaborn
+matplotlib
+plotly
+isodate
+nltk
+wordcloud
