@@ -25,7 +25,7 @@ from wordcloud import WordCloud
 
 
 
-DEVELOPER_KEY = 'API KEY"
+DEVELOPER_KEY = 'API KEY'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
